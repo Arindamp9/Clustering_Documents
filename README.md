@@ -1,6 +1,6 @@
 # Clustering_Documents
 ###### Project Goal:
-Clustering documents with respect to their wordId. Here we are using Jaccard distance to check the similarity between two documents.
+**Clustering documents with respect to their wordId. Here we are using Jaccard distance to check the similarity between two documents.
 ###### Here we have used the following libraries.
 1. Pandas
 2. Numpy
